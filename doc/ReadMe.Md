@@ -1,0 +1,2 @@
+euroc dataset
+basalt_vio --dataset-path /home/junwangcas/dataset/EuRoc/V2_03_difficult.bag --cam-calib /home/junwangcas/Documents/code/basalt-mirror/data/euroc_ds_calib.json --dataset-type bag --config-path /home/junwangcas/Documents/code/basalt-mirror/data/euroc_config.json --marg-data euroc_marg_data --show-gui 1
